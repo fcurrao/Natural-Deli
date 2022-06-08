@@ -1,0 +1,124 @@
+/*  ////////  BODY  //////// */
+
+html, body{
+    height:100% !important;
+    width:100%;
+    height:height;
+    margin:0 ;
+    padding:0;
+    align-content: center !important;
+    font-style: normal;
+    text-decoration-color: black !important;
+    text-decoration-style: solid;
+    color:  black !important;
+    text-align: center !important;
+    background-color: beige !important;
+  }
+
+section{
+  background-position: center center;
+  background-size: cover;
+  height: 150px;
+
+}
+
+
+/* /////////  CLASES  //////// . */
+
+.right {
+    float: left;
+}
+
+.productito{
+    border-radius: 100rem !important;
+}
+
+.popup-active{
+  background-color: red !important;
+}
+
+.moviendoElChango1{
+    transform: rotate(330deg) !important;
+}
+
+.moviendoElChango2{
+    transform: rotate(36deg) !important;
+}
+
+.fotitoChica{
+    width: 10%;
+    height: auto;
+    margin-left: 45%;
+    border: steelblue solid 1px;
+}
+
+.pie{
+    display: inline-block;
+}
+
+
+/* ////////   IDs #   ////////  */
+#totalCarritoArriba{
+    margin-left: +50%;
+    width: 100px;
+    position: absolute;
+
+}
+
+
+#div1{
+     position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+
+#textoencima{
+    position: absolute;
+    left: 42%;
+}
+
+#fotito{
+    height:auto !important;
+    width:100% !important;
+    margin:0 ;
+    padding:0;
+    align-content: center !important;
+}
+
+
+#titulito{
+  width: 100%;
+  height: 100%;
+  text-decoration-color: white !important;
+  color: white !important;
+  font-style: normal !important;
+  align-content: center !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+  line-height: center !important;
+}
+
+#botonFlotante{
+    width: 7%;
+    height: auto;
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+    z-index: 10;
+    transform: rotate(360deg);
+}
+
+
+
+
+/*
+
+    padding-top: 50px;
+    padding-left: 700px;
+    margin-left: -50px;
+    position: relative;
+    width: 43%;
+    height: auto;
+    border: steelblue solid 1px;
+    */

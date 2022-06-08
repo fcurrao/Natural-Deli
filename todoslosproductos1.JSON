@@ -1,0 +1,67 @@
+
+
+[
+  	{
+    "nombre": "ARROZ",
+    "url": "../img/ARROZ.jpg",
+    "precio": 80,
+    "nroItem": 1,
+    "cantidad": 50
+    },
+    {
+    "nombre": "MAYONESA",
+    "url": "../img/MAYONESA.jpg",
+    "precio": 45,
+    "nroItem": 2,
+    "cantidad": 100
+    },
+    {
+    "nombre":  "SAL ROSA",
+    "url": "../img/SAL ROSA.jpg",
+    "precio": 2800,
+    "nroItem": 3,
+    "cantidad": 20
+    },
+    {
+    "nombre": "FIDEOS",
+    "url": "../img/FIDEOS.jpg",
+    "precio": 60,
+    "nroItem": 4,
+    "cantidad": 12
+    },
+    {
+    "nombre": "GALLETAS DE AGUA",
+    "url": "../img/GALLETAS DE AGUA.jpg",
+    "precio": 280,
+    "nroItem": 5,
+    "cantidad": 100
+    },
+    {
+    "nombre": "GALLETAS DE GARBANZO",
+    "url": "../img/GALLETAS DE GARBANZO.jpg",
+    "precio": 120,
+    "nroItem": 6,
+    "cantidad": 500
+    },
+      {
+    "nombre": "CHOCLO",
+    "url": "../img/CHOCLO.jpg",
+    "precio":  150,
+    "nroItem": 7,
+    "cantidad": 2500
+    },
+      {
+    "nombre": "YERBA",
+    "url": "../img/YERBA.jpg",
+    "precio": 800,
+    "nroItem": 8,
+    "cantidad": 100
+    },
+      {
+    "nombre": "HAMBURGESA DE POLLO",
+    "url": "../img/HAMBURGESA DE POLLO.jpg",
+    "precio": 650,
+    "nroItem": 9,
+    "cantidad": 200
+    }
+ ]
